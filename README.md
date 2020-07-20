@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Ellaqi-tech&show_icons=true">
 
 ### Hi there I'm Ella :peach:
+[Portfolio](https://ellaqi.com/)<br>
 [![Linkedin: Ella C. Qi](https://img.shields.io/badge/-EllaC.Qi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ella-c-qi-b09037177/)](https://www.linkedin.com/in/ella-c-qi-b09037177/)
 [![Gmail Badge](https://img.shields.io/badge/-me@ellaqi.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@ellaqi.com)](mailto:me@ellaqi.com)
 <!--
@@ -40,6 +41,7 @@ Here are some ideas to get you started:
 ![Vue](https://img.shields.io/badge/-Vue-%64B587?style=flat-square&logo=vue)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 #### Design
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff) 
@@ -54,5 +56,3 @@ Here are some ideas to get you started:
 #### CMS
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
   
-
-⭐️ From [Ella C. Qi](https://github.com/Ellaqi-tech)
