@@ -27,9 +27,9 @@ Here are some ideas to get you started:
   
   
 💻 Full Stack Web Developer and 🎨 Graphic Designer <br>
-🎓 
-  - Post Graduate Certificate of Web Development <br>
-  - Bachelor of Communication Engineering <br>
+
+🎓 Post Graduate Certificate of Web Development <br>
+🎓 Bachelor of Communication Engineering <br>
   
 🚧 Currently working project <br>
    &nbsp; &nbsp; &nbsp; eCommerce website: [Supermomsclub](https://supermomsclub.com)<br>
