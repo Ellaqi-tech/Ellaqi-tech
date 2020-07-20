@@ -26,13 +26,14 @@ Here are some ideas to get you started:
 -->
   
   
-💻 Full Stack Web Developer and 🎨 Graphic Designer <br>
+💻 Full Stack Web Developer and 🎨 Designer <br>
 
 🎓 Post Graduate Certificate of Web Development <br>
 🎓 Bachelor of Communication Engineering <br>
   
-🚧 Currently working project <br>
-   &nbsp; &nbsp; &nbsp; eCommerce website: [Supermomsclub]<br>
+🚧 Currently working project: <br>
+   &nbsp; &nbsp; &nbsp; eCommerce website  [Supermomsclub](https://supermomsclub.com/)<br>
+🌱 Currently learning: Digital Marketing
    
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
