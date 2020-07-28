@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 💻 Full Stack Web Developer and 🎨 Designer <br>
 
 🎓 Post Graduate Certificate of Web Development <br>
+
 🎓 Bachelor of Communication Engineering <br>
   
 🚧 Currently working project: <br>
