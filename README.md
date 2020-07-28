@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 🚧 Currently working project: <br>
    &nbsp; &nbsp; &nbsp; eCommerce website  [Supermomsclub](https://supermomsclub.com/)<br>
    
-🌱 Currently learning: Digital Marketing (Very interesting, Hahaha)
+🌱 Currently learning: Digital Marketing (Very interesting, Hahaha🐵)
    
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
