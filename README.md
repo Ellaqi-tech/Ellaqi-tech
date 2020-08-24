@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Ellaqi-tech&show_icons=true">
 
-### Hi there， I'm Ella :peach:
+### Hi there, I'm Ella :peach:
 [Portfolio: ellaqi.com](https://ellaqi.com/)<br><br>
 [![Linkedin: Ella C. Qi](https://img.shields.io/badge/-EllaC.Qi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ella-c-qi-b09037177/)](https://www.linkedin.com/in/ella-c-qi-b09037177/)
 [![Gmail Badge](https://img.shields.io/badge/-me@ellaqi.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@ellaqi.com)](mailto:me@ellaqi.com)
