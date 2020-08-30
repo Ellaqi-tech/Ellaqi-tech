@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 🎓 Post Graduate Certificate of Web Development <br>
 
+🎓 Ontario College Certificate of Design Foundation <br>
+
 🎓 Bachelor of Communication Engineering <br>
   
 🚧 Currently working project: <br>
