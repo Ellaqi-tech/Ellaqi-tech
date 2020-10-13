@@ -33,11 +33,12 @@ Here are some ideas to get you started:
 🎓 Ontario College Certificate of Design Foundation <br>
 
 🎓 Bachelor of Communication Engineering <br>
-  
+ 
+<!-- 
 🚧 Currently working project: <br>
-   &nbsp; &nbsp; &nbsp; eCommerce website  [Supermomsclub](https://supermomsclub.com/)<br>
+   &nbsp; &nbsp; &nbsp; eCommerce website  [Supermomsclub](https://supermomsclub.com/)<br> -->
    
-🌱 Currently learning: E-Commerce
+<!-- 🌱 Currently learning: E-Commerce -->
    
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
