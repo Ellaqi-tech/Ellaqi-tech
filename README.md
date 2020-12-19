@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 🎓 Ontario College Certificate of Design Foundation <br>
 
-🎓 Bachelor of Communication Engineering <br>
+🎓 Bachelor Degree of Communication Engineering <br>
  
 <!-- 
 🚧 Currently working project: <br>
