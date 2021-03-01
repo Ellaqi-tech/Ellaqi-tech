@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Ella :peach:
 [Portfolio: ellaqi.com](https://ellaqi.com/)<br><br>
-[![Linkedin: Ella Qi](https://img.shields.io/badge/-EllaC.Qi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ella-cqi/)](https://www.linkedin.com/in/ella-cqi/)
+[![Linkedin: Ella Qi](https://img.shields.io/badge/-EllaQi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ella-cqi/)](https://www.linkedin.com/in/ella-cqi/)
 [![Gmail Badge](https://img.shields.io/badge/-me@ellaqi.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@ellaqi.com)](mailto:me@ellaqi.com)
 <!--
 [![lucafluri.ch](https://img.shields.io/static/v1?label=lucafluri.ch&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://www.lucafluri.ch/)
