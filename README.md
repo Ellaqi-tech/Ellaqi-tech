@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 🎓 Ontario College Certificate of Design Foundation with Honors <br>
 
 🎓 Bachelor Degree of Communication Engineering <br>
+
+🎵 Head player of Pipa section in Jilin University’s orchestra
  
 <!-- 
 🚧 Currently working project: <br>
