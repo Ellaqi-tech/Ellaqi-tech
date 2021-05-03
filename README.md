@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Ellaqi-tech&show_icons=true">
+<img align='right' width='45%' src="https://github-readme-stats.vercel.app/api?username=Ellaqi-tech&show_icons=true">
 
 ### Hi there, I'm Ella :peach:
 [Portfolio: ellaqi.com](https://ellaqi.com/)<br><br>
@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 -->
   
   
-💻 Full Stack Web Developer and 🎨 Designer <br>
+💻 🎨 Dreamer <br>
 
-🎓 Post Graduate Certificate of Web Development <br>
+🎓 Post Graduate Certificate of Web Development with Honors <br>
 
-🎓 Ontario College Certificate of Design Foundation <br>
+🎓 Ontario College Certificate of Design Foundation with Honors <br>
 
 🎓 Bachelor Degree of Communication Engineering <br>
  
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff) 
 ![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
 ![Adobe Indesign](http://img.shields.io/badge/-Abode%20Indesign-f61f52?style=flat-square&logo=adobe-indesign&logoColor=ffffff)
-![Adobe XD](http://img.shields.io/badge/-Abode%20XD-DA3CED?style=flat-square&logo=adobe-xd&logoColor=ffffff)
+<!-- ![Adobe XD](http://img.shields.io/badge/-Abode%20XD-DA3CED?style=flat-square&logo=adobe-xd&logoColor=ffffff) -->
 
 #### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
