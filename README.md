@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 #### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MS SQL](http://img.shields.io/badge/-MS%20SQL%20-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![My SQL](http://img.shields.io/badge/-MY%20SQL%20-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
 #### CMS
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
